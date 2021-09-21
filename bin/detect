@@ -1,0 +1,7 @@
+#!/bin/sh
+
+# Does nothing. Everything happens in ./bin/compile
+
+if [ true ]; then
+  echo "       Cloudflare purgeable cache buildpack..."
+fi
